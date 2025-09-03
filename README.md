@@ -157,16 +157,5 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 - Performance improvements
 - Documentation updates
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🎮 Screenshots & Demo
-
-*Add screenshots of your game in action here*
-
----
-
 **Enjoy your flight adventure! 🛩️✈️**
 
-*For questions or support, please open an issue on GitHub.*
