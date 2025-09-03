@@ -73,11 +73,12 @@ pip install PyOpenGL PyOpenGL_accelerate
 - **Python 3.x**
 - **PyOpenGL**: 3D graphics rendering
 - **PyOpenGL_accelerate**: Performance optimization
-- **GLUT**: Window management and input handling
+- **GLUT**: Window management and input handling (install FreeGLUT if not included with your system or PyOpenGL)
 
 ### Running the Game
 ```bash
-python task.py
+# Replace <main_script.py> with the actual entry point when available
+python <main_script.py>
 ```
 
 ## 🎮 Gameplay Mechanics
@@ -156,6 +157,13 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 - New features
 - Performance improvements
 - Documentation updates
+
+## 📝 Notes for Contributors
+
+- If you are working on Windows and see warnings about line endings (LF/CRLF), consider configuring Git to handle line endings automatically:
+  ```bash
+  git config --global core.autocrlf true
+  ```
 
 **Enjoy your flight adventure! 🛩️✈️**
 
